@@ -1,0 +1,48 @@
+{
+    "name": "MB",
+    "iscontent": [{
+        "id": "metal_bellows",
+        "title": "Metal Bellows",
+        "bannerId": "p1"
+    },
+    {
+        "id": "welded_bellows",
+        "title": "Welded Bellows",
+        "bannerId": "p2"
+    },
+    {
+        "id": "metal_hose",
+        "title": "Metal Hose",
+        "bannerId": "p3"
+    },
+    {
+        "id": "expansion_joints",
+        "title": "Expansion Joints",
+        "bannerId": "p4"
+    },
+    {
+        "id": "engineering",
+        "title": "Engineering",
+        "bannerId": "p5"
+    },
+    {
+        "id": "types_of_products",
+        "title": "Types of Products",
+        "bannerId": "p4"
+    },
+    {
+        "id": "test",
+        "title": "Test",
+        "bannerId": "p6"
+    },
+    {
+        "id": "application",
+        "title": "Application",
+        "bannerId": "p7"
+    },
+    {
+        "id": "materials",
+        "title": "Materials",
+        "bannerId": "p4"
+    }]
+}

@@ -1,0 +1,121 @@
+[
+    {
+        "bannerId": "c1",
+        "img": [
+            "../static/img/c11.jpg",
+            "../static/img/c12.jpg",
+            "../static/img/c13.jpg",
+            "../static/img/c14.jpg",
+            "../static/img/c15.jpg",
+            "../static/img/c16.jpg"
+        ]
+    },
+    {
+        "bannerId": "c2",
+        "img": [
+            "../static/img/c21.jpg"
+        ]
+    },
+    {
+        "bannerId": "c3",
+        "img": [
+            "../static/img/c31.jpg",
+            "../static/img/c32.jpg",
+            "../static/img/c33.jpg",
+            "../static/img/c34.jpg",
+            "../static/img/c35.jpg",
+            "../static/img/c36.jpg"
+        ]
+    },
+    {
+        "bannerId": "p0",
+        "img": [
+            "../static/img/p01.jpg",
+            "../static/img/p02.jpg",
+            "../static/img/p03.jpg",
+            "../static/img/p04.jpg",
+            "../static/img/p05.jpg",
+            "../static/img/p06.jpg"
+        ]
+    },
+    {
+        "bannerId": "p1",
+        "img": [
+            "../static/img/p11.jpg",
+            "../static/img/p12.jpg",
+            "../static/img/p13.jpg",
+            "../static/img/p14.jpg",
+            "../static/img/p15.jpg",
+            "../static/img/p16.jpg"
+        ]
+    },
+    {
+        "bannerId": "p2",
+        "img": [
+            "../static/img/p21.jpg",
+            "../static/img/p22.jpg",
+            "../static/img/p23.jpg",
+            "../static/img/p24.jpg",
+            "../static/img/p25.jpg"
+        ]
+    },
+    {
+        "bannerId": "p3",
+        "img": [
+            "../static/img/p31.jpg",
+            "../static/img/p32.jpg",
+            "../static/img/p33.jpg",
+            "../static/img/p34.jpg",
+            "../static/img/p35.jpg",
+            "../static/img/p36.jpg"
+        ]
+    },
+    {
+        "bannerId": "p4",
+        "img": [
+            "../static/img/p41.jpg",
+            "../static/img/p42.jpg",
+            "../static/img/p43.jpg",
+            "../static/img/p44.jpg",
+            "../static/img/p45.jpg",
+            "../static/img/p46.jpg"
+        ]
+    },
+    {
+        "bannerId": "p5",
+        "img": [
+            "../static/img/p51.jpg",
+            "../static/img/p52.jpg",
+            "../static/img/p53.jpg",
+            "../static/img/p54.jpg",
+            "../static/img/p55.jpg",
+            "../static/img/p56.jpg"
+        ]
+    },
+    {
+        "bannerId": "p6",
+        "img": [
+            "../static/img/p61.jpg",
+            "../static/img/p62.jpg",
+            "../static/img/p63.jpg",
+            "../static/img/p64.jpg",
+            "../static/img/p65.jpg",
+            "../static/img/p66.jpg"
+        ]
+    },
+    {
+        "bannerId": "p7",
+        "img": [
+            "../static/img/p71.jpg",
+            "../static/img/p72.jpg",
+            "../static/img/p73.jpg",
+            "../static/img/p74.jpg",
+            "../static/img/p75.jpg",
+            "../static/img/p76.jpg",
+            "../static/img/p77.jpg",
+            "../static/img/p78.jpg",
+            "../static/img/p79.jpg",
+            "../static/img/p710.jpg"
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[{
+  "name": "1965",
+  "title": "1965",
+  "img": ["../static/img/65_1.jpg", "../static/img/65_2.jpg", "../asstes/../static/img/65_3.jpg"],
+  "text": "Foundation of Shenyang Elastic Element Factory"
+}, {
+  "name": "1972",
+  "title": "1972",
+  "img": ["../static/img/72_1.jpg", "../static/img/72_2.jpg"],
+  "text": "Marine Expansion Joints Production"
+}, {
+  "name": "1976",
+  "title": "1976",
+  "img": ["../static/img/76_1.jpg"],
+  "text": "Expansion Joint Production for Diesel Engine in Locomotive"
+}, {
+  "name": "1985",
+  "title": "1985",
+  "img": ["../static/img/85_1.jpg"],
+  "text": "Bellows Production for Engineering Truck"
+}, {
+  "name": "1986",
+  "title": "1986",
+  "img": ["../static/img/86_1.jpg"],
+  "text": "Establishment of Flexible Tiger Metal Bellows Co., Ltd. by Shenyang Elastic Element Factory and FMH Mfg. Co.-U.S."
+}, {
+  "name": "1987",
+  "title": "1987",
+  "img": ["../static/img/87_1.jpg", "../static/img/87_2.jpg"],
+  "text": "Received the Certificate of Type Approval for Marine Product"
+}, {
+  "name": "1990",
+  "title": "1990",
+  "img": ["../static/img/90_1.jpg"],
+  "text": "Expansion Joint Production for 126 kV GIS"
+}, {
+  "name": "1991",
+  "title": "1991",
+  "img": ["../static/img/91_1.jpg"],
+  "text": "Unreinforce Expansion Joint (DN800mm/PN4.0MPa) Production for Styrene Plant. Received the Type Approvals for Expansion Joint from Sulzer and B&W"
+}, {
+  "name": "1993",
+  "title": "1993",
+  "img": ["../static/img/93_1.jpg"],
+  "text": "Expansion Joint Production for 300MW Steam Turbine"
+}, {
+  "name": "1994",
+  "title": "1994",
+  "img": ["../static/img/94_1.jpg"],
+  "text": "Expansion Joint Production for 252 kV GIS"
+}, {
+  "name": "1997",
+  "title": "1997",
+  "img": ["../static/img/97_1.jpg"],
+  "text": "Move to New Facilities"
+}, {
+  "name": "1998",
+  "title": "1998",
+  "img": ["../static/img/98_1.jpg"],
+  "text": "Titanium Bellows Production, Received the first QMS Certificate of ISO9001"
+}, {
+  "name": "2004",
+  "title": "2004",
+  "img": ["../static/img/04_1.jpg"],
+  "text": "Expansion Joint Production for 550 kV GIS"
+}, {
+  "name": "2008",
+  "title": "2008",
+  "img": ["../static/img/08_2.jpg", "../static/img/08_1.jpg", "../static/img/08_3.jpg"],
+  "text": "Expansion Joint Production for 1100 kV GIS<br/>Shenyang Elastic Element Factory sold its stock to Aerosun Corporation, the company renamed as Shenyang Aerosun-Futai Expansion Joint Co., Ltd."
+}, {
+  "name": "2009",
+  "title": "2009",
+  "img": ["../static/img/09_1.jpg", "../static/img/09_2.jpg"],
+  "text": "Large Expansion Joint Production for circulating and cooling piping system of Ultra-supercritical Generators"
+}, {
+  "name": "2010",
+  "title": "2010",
+  "img": ["../static/img/10_1.jpg"],
+  "text": "Move to New Facilities"
+}, {
+  "name": "2011",
+  "title": "2011",
+  "img": ["../static/img/11_1.jpg"],
+  "text": "Expansion Joint Production for Cryostat Piping in European X Ray Free Electron Laser Project"
+}, {
+  "name": "2012",
+  "title": "2012",
+  "img": ["../static/img/12_1.jpg"],
+  "text": "Expansion Joint Production for 800 kV GIS"
+}]

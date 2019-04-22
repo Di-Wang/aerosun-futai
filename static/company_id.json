@@ -1,0 +1,38 @@
+{
+    "name": "COM",
+    "iscontent": [{
+        "id": "company",
+        "title": "The Company",
+        "bannerId": "c1"
+    },
+    {
+        "id": "history",
+        "title": "History",
+        "bannerId": "c1"
+    },
+    {
+        "id": "group",
+        "title": "The Group",
+        "bannerId": "c2"
+    },
+    {
+        "id": "production",
+        "title": "Production",
+        "bannerId": "c3"
+    },
+    {
+        "id": "capability",
+        "title": "Capability",
+        "bannerId": "c3"
+    },
+    {
+        "id": "quality",
+        "title": "Quality",
+        "bannerId": "c3"
+    },
+    {
+        "id": "services",
+        "title": "Services",
+        "bannerId": "c3"
+    }]
+}

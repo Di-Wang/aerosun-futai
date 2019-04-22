@@ -1,0 +1,37 @@
+{
+    "name": "Company",
+    "iscontent": [{
+        "id": "company",
+        "title": "The Company",
+        "text": "Aerosun-Futai has been designing and manufacturing flexible elements such as metal bellows, welded bellows, metal hose and metal expansion joints for the industries since 1960s and is a leading designer and manufacturer of metal bellows and expansion joints in China, specializing in exhaust pipe system of diesel and gas engine and gas insulated substation (GIS).<br/><br/>Aerosun-Futai designs, manufactures and services a wide range of high performance bellows type products and expansion joints. This large range of products is highlighted by the metal bellows and welded bellows for mechanical sealing and vacuum system, expansion joints for exhaust piping in ship-building, diesel engine, automotive and for GIS in power transmission. The Aerosun-Futai families of bellows products are in service around the fields in power generation and transmission, refineries, chemical plants, pulp & paper mills, steel mills, district heating, vacuum and refrigeration machinery, space and aviation.<br/><br/>In being a development partner for customers in the power transmission industry, mechanical industry, diesel engine and other markets, the close cooperation between the customers and Aerosun-Futai's research institute is very important. Leave your application requests to our highly qualified engineers and you’ll get satisfied solution.<br/><br/>"
+    },
+    {
+        "id": "history",
+        "title": "History"
+    },
+    {
+        "id": "group",
+        "title": "The Group",
+        "text": "Aerosun-Futai is a holding subsidiary of Aerosun Corporation based in Nanjing, China. Aerosun Corporation is a public limited company initiated in 1999 by Nanjing Chenguang Group and is the largest research and manufacturing base of metal hose and expansion joints in Asia. Aerosun has production plants and sales offices throughout China. Click www.aerosun.cn for further information of Aerosun Corporation.<br/><br/>"
+    },
+    {
+        "id": "production",
+        "title": "Production",
+        "text": "Aerosun-Futai started its production of flexible elements for valve, vacuum technology, and measurement and control systems in 1960s. With the requirements of the industrial applications, Aerosun-Futai started to make expansion joints for diesel and turbine, automotive, GIS and other industries. Today, Aerosun-Futai has becoming the large base of Aerosun Corporation for research and production of bellows products in northern area of China and the largest manufacturer of expansion joints for GIS industry in China.<br/><br/>"
+    },
+    {
+        "id": "capability",
+        "title": "Capability",
+        "text": "Aerosun-Futai is one of the leading manufacturing company of expansion joints in China. Its manufacturing floor area - 16,000 sq. meters and total land area - 35000 sq. meters. With our team of highly skilled engineers and designers, we will help you to find the best solution for your applications by utilizing state of the art equipment and software. Aerosun-Futai uses three methods to form its metallic and multilayer bellows for diameter from 50mm up to 7000mm, which is elastomeric, expansion and hydraulic forming.<br/><br/>"
+    },
+    {
+        "id": "quality",
+        "title": "Quality",
+        "text": "Aerosun-Futai has started to develop its Quality Assurance System since 1980’s to fulfill each one of our customers’ needs in terms of products and before/after sales services. Aerosun-Futai maintains the Certificates for the fabrication of expansion joints issued by both domestic and European based agencies such as:<br/><a href='../static/img/files1.jpg' target='_blank' class='title_a'>ISO9001 Certificate of QMS</a><br/><a href='../static/img/files2.jpg' target='_blank' class='title_a'>Manufacture License of Special Equipment (Pressure Pipe)</a><br/><a href='../static/img/files3.pdf' target='_blank' class='title_a'>PED 97/23/EG——Welder Approval Test Certificates</a><br/><br/>The Aerosun-Futai Quality Control capabilities include the following NDE ways and Inspection/Test methods: PT, RT, UT, Hydrostatic/Pneumatic Pressure Testing, SF6/Helium Leak Testing, Hardness Testing and Inspection of Coating Thickness.<br/><br/>"
+    },
+    {
+        "id": "services",
+        "title": "Services",
+        "text": "Aerosun-Futai provides a variety of services to meet the needs of our customers:<br/><br/><span class='title_a'>Engineering and Design</span><br/>&nbsp;&nbsp;&nbsp;&nbsp;--Finite Element Analysis<br/>&nbsp;&nbsp;&nbsp;&nbsp;--Stress Analysis for Pipe with Expansion Joints<br/><span class='title_a'>Expansion Joint Design</span><br/><span class='title_a'>Value-added Services</span><br/>&nbsp;&nbsp;&nbsp;&nbsp;--Product testing<br/><span class='title_a'>On-site Field Services</span><br/><br/>"
+    }]
+}
